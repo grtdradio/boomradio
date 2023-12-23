@@ -1,2 +1,2 @@
-# boomradio
-Radio con una selección amplia de géneros musicales. Boom Radio EXPLOTANDO TUS SENTIDOS!!!
+# BOOM RADIO
+Radio con una selección amplia de géneros musicales EXPLOTANDO TUS SENTIDOS!!!
